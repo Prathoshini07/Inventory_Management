@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "P:/Inventory_management/Inventory_Management/venv/Scripts/python.exe",
+    "python.languageServer": "Pylance",
+    "python.analysis.extraPaths": [
+      "P:/Inventory_management/Inventory_Management/venv/Lib/site-packages"
+    ]
+  }
+  
+  
